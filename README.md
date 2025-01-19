@@ -1,2 +1,2 @@
-# sweng861-hw1-2
-Webpage setup for S3 Bucket image upload.
+# Webpage setup for S3 Bucket image upload
+Uploading and loading an image from cloud storage (s3 bucket)
